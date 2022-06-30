@@ -1,8 +1,0 @@
-\babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
-\contentsline {section}{\numberline {2}Assignment}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Magnitude and Phase response of FIR filter}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Linear Convolution}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Circular Convolution}{6}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Circular Convolution as Linear Convolution with Aliasing}{6}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Circular Correlation of Zadoff-Chu Sequence}{6}{subsection.2.5}%
