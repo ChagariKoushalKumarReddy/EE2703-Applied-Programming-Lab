@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
+\contentsline {section}{\numberline {2}Theory: Laplace Transform}{3}{section.2}%
+\contentsline {section}{\numberline {3}Assignment Objectives}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Response of a spring-mass system}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Response of the spring-mass system for different frequencies}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Coupled Spring Problem}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}RLC Filter}{8}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusions}{11}{section.4}%

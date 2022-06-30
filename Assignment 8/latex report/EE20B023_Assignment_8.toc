@@ -1,0 +1,15 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Sampling}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Nyquist-Shannon Sampling Theorem}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Discrete Fourier Transform (DFT)}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Connection between CTFT and DFT}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Assignment}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Spectrum of $\qopname \relax o{sin}(5t)$}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Spectrum of amplitude modulated signal}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Spectrum of $\qopname \relax o{sin}^{3}(t), \qopname \relax o{cos}^{3}(t)$}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Spectrum of frequency modulated signal}{11}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Spectrum of the Gaussian signal}{13}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Effect of $T_{o}$ and N on the CTFT of the Gaussian}{15}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Conclusions}{19}{section.4}%

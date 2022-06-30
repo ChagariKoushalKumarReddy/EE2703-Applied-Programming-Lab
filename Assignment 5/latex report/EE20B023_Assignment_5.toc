@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The Resistor Problem}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Solving the Laplace Equation}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Boundary Conditions}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Current density distribution}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Temperature profile}{5}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Procedure}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Variables used:}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Solving the Laplace Equation}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Error Analysis}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Observations and plots}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Initial potential contour}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Semilogy plot of the Error vs Iteration number}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Loglog plot of the Error vs Iteration number}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}3D Surface Potential Plot}{10}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Final Potential Contour Plot}{10}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Vector plot of the current density}{11}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Temperature Profile Contour}{11}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Results and Conclusions}{12}{section.5}%
