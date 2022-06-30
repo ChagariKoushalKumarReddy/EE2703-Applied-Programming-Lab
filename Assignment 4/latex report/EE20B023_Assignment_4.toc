@@ -1,0 +1,40 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Aim}{4}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Functions: $e^{x}$ and $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fourier coefficients vector}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Least Squares Approximation}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Procedure}{6}{section.3}%
+\contentsline {section}{\numberline {4}Code and Functions}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Functions \textit {exp\_(x)} and \textit {cos\_cos\_(x)}}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Function \textit {fourier\_coeff(n,func)}}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Function \textit {matrix\_gen(num,x)}}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Observations and Plots}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Exact vs Expected Fourier plots}{9}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Figure 1: For $e^{x}$ function:}{9}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Figure 2: For $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$ function:}{10}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}Fourier coefficients obtained by integration}{10}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Figure 3: Semi-logy plot for the integration coefficients of $e^{x}$:}{10}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Figure 4: Loglog plot for the integration coefficients of $e^{x}$:}{11}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Figure 5: Semi-logy plot for the integration coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{11}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Figure 6: Loglog plot for the integration coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{12}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Fourier coefficients obtained by least squares method}{12}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Figure 7: Semi-logy plot for the least square coefficients of $e^{x}$:}{12}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Figure 8: Loglog plot for the least square coefficients of $e^{x}$:}{13}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Figure 9: Semi-logy plot for the least square coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{13}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Figure 10: Loglog plot for the least square coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{14}{subsubsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.4}Fourier coefficients obtained by integration vs least squares \\ approximation:}{14}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Figure 11: Semi-logy plot for the coefficients of $e^{x}$:}{14}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Figure 12: Loglog plot for the coefficients of $e^{x}$:}{15}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Figure 13: Semi-logy plot for the coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{15}{subsubsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.4}Figure 14: Loglog plot for the coefficients of $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$:}{16}{subsubsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.5}Expected Fourier plot along with Fourier plot obtained using integration coefficients}{16}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Figure 15: For $e^{x}$ function:}{16}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {5.5.2}Figure 16: For $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$ function:}{17}{subsubsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.6}Expected Fourier plot along with Fourier plot obtained using least square coefficients}{17}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Figure 17: For $e^{x}$ function:}{17}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {5.6.2}Figure 18: For $\qopname \relax o{cos}(\qopname \relax o{cos}(x))$ function:}{18}{subsubsection.5.6.2}%
+\contentsline {section}{\numberline {6}Results and Conclusions}{18}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Conclusions for question 3}{18}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Conclusions for question 6}{20}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Conclusions for question 7}{20}{subsection.6.3}%
