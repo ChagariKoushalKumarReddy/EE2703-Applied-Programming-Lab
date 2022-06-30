@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Aim}{3}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}DFT of signals with discontinuities}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Gibbs Phenomena}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Hamming Window}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Assignment}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Spectrum of $\qopname \relax o{cos}^{3}(t)$}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Estimation of frequency and initial phase of a sinusoid using DFT:}{11}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}DFT of Chirped Signal}{12}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Conclusions}{15}{section.4}%
